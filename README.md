@@ -2,7 +2,9 @@
  Javascript React Vue JS Node HTML CSS jQuery Bootstrap 4 Webpack Gulp Banco de Dados e muito mais
 
   _ Tudo que eu preciso para saber como construir aplicações modernas para Web
+
   _ Criar aplicações REAIS e posta-las aqui usando as mais modernas tecnologias do mercado
+
   _ Últimos recursos de HTML, CSS, Javascript e vários frameworks para dominar o mundo
   _ Aprender HTML 5 e os últimos recursos da linguagem (*Mesmo que seja uma linguagem de marcação de texto)
   _ Aprender CSS 3 e como aplicar estilo usando as últimas tecnologias: CSS Grid, Flexbox e muito mais
